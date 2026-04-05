@@ -1,0 +1,14 @@
+{
+  "name": "ao-test-project",
+  "version": "1.0.0",
+  "description": "Minimal Express hello world server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
